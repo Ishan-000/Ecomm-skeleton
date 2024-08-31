@@ -34,7 +34,6 @@ Located in `Frontend/src/`
 
 ## Backend (Node.js)
 
-(Assuming a typical Express.js setup to complement the frontend)
 
 ### Key Features:
 
